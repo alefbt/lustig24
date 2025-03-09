@@ -1,0 +1,99 @@
+project_id: basics
+task_id: 2412-3
+
+questions:
+  - question: "Is open source free?"
+    type: "multiple_choice"
+    options:
+      - "Yes, always free"
+      - "No, never free"
+      - "It depends on the license"
+    answer: "It depends on the license"
+
+  - question: "Which of the following are examples of open source systems?"
+    type: "multiple_choice"
+    options:
+      - "Linux"
+      - "React"
+      - "Microsoft Office"
+      - "TensorFlow"
+    answer: 
+      - "Linux"
+      - "React"
+      - "TensorFlow"
+
+  - question: "Which open source license requires sharing modifications to the code?"
+    type: "multiple_choice"
+    options:
+      - "MIT License"
+      - "GPL (General Public License)"
+      - "Apache License"
+      - "Proprietary License"
+    answer: "GPL (General Public License)"
+
+  - question: "Which of the following are popular open source licenses?"
+    type: "multiple_choice"
+    options:
+      - "MIT License"
+      - "GPL (General Public License)"
+      - "Apache License"
+      - "BSD License"
+    answer:
+      - "MIT License"
+      - "GPL (General Public License)"
+      - "Apache License"
+      - "BSD License"
+
+  - question: "What is one key advantage of open source software?"
+    type: "multiple_choice"
+    options:
+      - "It is always more secure"
+      - "You can modify the code to meet your needs"
+      - "It requires no technical expertise"
+      - "It guarantees professional support"
+    answer: "You can modify the code to meet your needs"
+
+  - question: "What is one potential disadvantage of open source software?"
+    type: "multiple_choice"
+    options:
+      - "It is always expensive"
+      - "There is limited official support"
+      - "It cannot be used commercially"
+      - "It is never customizable"
+    answer: "There is limited official support"
+
+  - question: "Which of these platforms is commonly used to find open source projects?"
+    type: "multiple_choice"
+    options:
+      - "GitHub"
+      - "Dropbox"
+      - "Slack"
+      - "Google Drive"
+    answer: "GitHub"
+
+  - question: "What does the Apache License focus on?"
+    type: "multiple_choice"
+    options:
+      - "Restricting code usage"
+      - "Protecting users from patent claims"
+      - "Forcing users to share modifications"
+      - "Making software proprietary"
+    answer: "Protecting users from patent claims"
+
+  - question: "Which of these is NOT an open source project?"
+    type: "multiple_choice"
+    options:
+      - "Linux"
+      - "TensorFlow"
+      - "Adobe Photoshop"
+      - "WordPress"
+    answer: "Adobe Photoshop"
+
+  - question: "What is the primary focus of open source software?"
+    type: "multiple_choice"
+    options:
+      - "Accessibility of the code"
+      - "Cost reduction"
+      - "Guaranteed support"
+      - "Restricting users"
+    answer: "Accessibility of the code"

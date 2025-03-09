@@ -1,0 +1,57 @@
+project_id: basics
+task_id: 2412-2
+
+questions:
+    - question: What does PLANNING include?
+      answer: In the planning phase, the team selects tasks from the Product Backlog and creates the Sprint Backlog. Sprint goals are defined, and the team commits to completing the selected work.
+
+    - question: What happens in a RETRO, and what does RETRO mean?
+      answer: A retrospective is a meeting held at the end of a sprint where the team discusses what went well, what didn’t, and identifies areas for improvement.
+
+    - question: What roles are there in Scrum?
+      answer: The roles in Scrum are Product Owner, Scrum Master, and Development Team.
+
+    - question: What is a BACKLOG?
+      answer: A prioritized list of tasks. The Product Backlog includes all the work required for the project, while the Sprint Backlog contains only tasks for the current sprint.
+
+    - question: What is the difference between AGILE and SCRUM?
+      answer: Agile is a flexible philosophy for project management, while Scrum is a specific framework that follows Agile principles.
+
+    - question: What is Kanban?
+      answer: A visual tool for task management. It tracks tasks through stages such as "To Do," "In Progress," and "Done."
+
+    - question: How does Scrum integrate with GITHUB?
+      answer: GitHub is used for version control, tracking tasks, and collaboration, which aligns with Agile and Scrum workflows.
+
+    - question: What is a Burn Down Chart?
+      answer: A chart that shows the remaining work in a sprint over time. It helps track progress and address potential issues.
+
+    - question: What is a Sprint?
+      answer: A Sprint is a time-boxed iteration, typically 2-4 weeks long, where the team works on specific goals.
+
+    - question: What is the purpose of a Daily Standup?
+      answer: A short, 15-minute meeting to align on progress, discuss roadblocks, and focus on daily goals.
+
+    - question: What is a Product Increment?
+      answer: A Product Increment is the sum of all completed work during a Sprint, representing a potentially shippable product.
+
+    - question: What is the role of the Scrum Master?
+      answer: The Scrum Master facilitates the Scrum process, removes obstacles, and ensures the team adheres to Scrum practices.
+
+    - question: What is the Definition of Done (DoD)?
+      answer: The Definition of Done is a set of agreed-upon criteria that determines when a task or increment is considered complete.
+
+    - question: What happens during a Sprint Review?
+      answer: The team presents completed work to stakeholders, gathers feedback, and discusses what will happen next.
+
+    - question: What is the role of the Product Owner?
+      answer: The Product Owner prioritizes the Product Backlog, defines requirements, and ensures the product delivers value to the customer.
+
+    - question: What is Time-Boxing in Scrum?
+      answer: Time-boxing is the practice of allocating a fixed amount of time for events, tasks, or processes to ensure efficiency and focus.
+
+    - question: What is Velocity in Scrum?
+      answer: Velocity is a measure of the amount of work a team completes in a Sprint, used to predict future performance.
+
+    - question: What is the difference between Sprint Backlog and Product Backlog?
+      answer: The Product Backlog contains all tasks for the project, while the Sprint Backlog includes tasks selected for the current Sprint.
