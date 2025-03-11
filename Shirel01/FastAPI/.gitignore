@@ -1,0 +1,15 @@
+
+# Dossier de l'environnement virtuel
+venv/
+
+# Cache Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Fichiers de configuration spécifiques à PyCharm
+.idea/
+
+# Fichiers de log ou de dépendances locales
+*.log
+
